@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Shengwei, a 2026 graduate from Oregon State University and a homelab enthusiast.
+
+I like to design and create whatever is on my mind.
+
+I'm currently working on my networking and enterprise homelab.
