@@ -19,4 +19,4 @@ I'm Shengwei, a 2026 graduate from Oregon State University and a homelab enthusi
 
 I like to design and create whatever is on my mind.
 
-I'm currently working on my networking and enterprise homelab.
+I'm currently working on a penetration testing software
